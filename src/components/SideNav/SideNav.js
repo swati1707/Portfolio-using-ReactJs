@@ -6,7 +6,7 @@ export const SideNav = ({ handleSectionClick }) => {
     return (
         <div className="sidenav">
             <img
-                src="./avatar-img2.png"
+                src="https://github.com/swati1707/Portfolio-using-ReactJs/blob/master/src/components/SideNav/avatar-img1.jpg"
                 className="avatar"
                 alt="avatar"
                 

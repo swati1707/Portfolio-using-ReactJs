@@ -5,7 +5,6 @@ export const skills = {
         "JavaScript",
         "NodeJS",
         "ReactJS",
-        "React Native",
         "Redux",
         "C++",
         "C#",
@@ -14,34 +13,24 @@ export const skills = {
         "Python",
         "HTML",
         "CSS",
+        "SCSS",
         "jQuery",
         "Bootstrap",
-        "Material Design",
-        "MaterializeCSS",
         "Git",
         "GitHub",
         "MongoDB",
     ],
     industryKnowledge: [
-        "Software",
-        "Marketing",
-        "Publicity",
-        "Blogging",
-        "Content Writing",
-        "Creative Writing",
-        "Web Content",
+        "Web Development",
         "Frontend",
-        "Software",
-        "Backend",
-        "Design",
-        "Web",
-        "Android"
+        "UI development",
+        "Agile Methodolgy",
+        "UI integration with Backend"
     ],
     interpersonalSkills: [
         "Communication",
-        "Teaching",
-        "Time Management",
         "Leadership",
-        "Management"
+        "Management",
+        "Team Work"
     ]
 };

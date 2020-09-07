@@ -3,41 +3,17 @@ export const projects = {
     quote: "Ahh, Learning alone is boring, implementation is the real fun",
     projectList: [
         {
-            name: "Project 1",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            link: "http://madhavbahl.tech/react-pokedex/"
+            name: "Portfolio using ReactJS",
+            description: "To build your own portfolio using ReactJs by making different components which makes development easier and less complex.",
+            link: "https://github.com/swati1707/Portfolio-using-ReactJs"
         }, {
-            name: "Project 2",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            link: "http://madhavbahl.tech/react-pokedex/"
+            name: "Weather app using RaectJS",
+            description: "Weather application using ReactJS which displays weather conditions of different cities.",
+            link: "https://github.com/swati1707/weather-app"
         }, {
-            name: "Project 3",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            link: "http://madhavbahl.tech/react-pokedex/"
-        }, {
-            name: "Project 4",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            link: "http://madhavbahl.tech/react-pokedex/"
-        }, {
-            name: "Project 5",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            link: "http://madhavbahl.tech/react-pokedex/"
-        }, {
-            name: "Project 6",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            link: "http://madhavbahl.tech/react-pokedex/"
-        }, {
-            name: "Project 7",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            link: "http://madhavbahl.tech/react-pokedex/"
-        }, {
-            name: "Project 8",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            link: "http://madhavbahl.tech/react-pokedex/"
-        }, {
-            name: "Project 9",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            link: "http://madhavbahl.tech/react-pokedex/"
+            name: "Weather app using Node.js",
+            description: "Weather application using Node.js which displays weather conditions of different cities.",
+            link: "https://github.com/swati1707/node-weatherapp"
         }
     ]
 }
